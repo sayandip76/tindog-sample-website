@@ -1,0 +1,1 @@
+This is a basic well responsive website I made with HTML, CSS and Bootstrap. This project was more focused on upgrading my knowledge of my web designing skills at the same time making it well responsive also.
